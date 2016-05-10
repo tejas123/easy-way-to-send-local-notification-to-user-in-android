@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Local Notification Demo</string>
+    <string name="write_your_text_here">Write Your Text Here(optional)</string>
+
+    <string name="dismiss">Dismiss</string>
+    <string name="snooze">Snooze</string>
+    <string name="send_simple_notification">Send Simple Notification</string>
+    <string name="send_expand_layout_notification">Send Expand Layout Notification</string>
+    <string name="send_notification_with_action_buttons">Send Notification With Action Buttons</string>
+    <string name="send_max_priority_notification">Send Max Priority Notification</string>
+    <string name="send_min_priority_notification">Send Min Priority Notification</string>
+    <string name="send_combined_notification">Send Combined Notification</string>
+    <string name="clear_all_notification">Clear All Notifications</string>
+    <string name="notification_title">Notification Title(optional)</string>
+
+
+</resources>
